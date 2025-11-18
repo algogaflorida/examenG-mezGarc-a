@@ -2,3 +2,5 @@ Ejercicio 1:
     1. mkdir examenGomez
     2. cd examenGomez
     3. mkdir prog si bbdd
+Ejercicio 2:
+    1. touch prog/index.php
