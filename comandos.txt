@@ -16,3 +16,5 @@ Ejercicio 7:
     1. rm ../../bbdd/consultas.sql
 Ejercicio 8:
     1. mv ../../prog/index.php index2.php
+Ejercicio 9:
+    1. echo "select * from clientes">> ../../login.txt
