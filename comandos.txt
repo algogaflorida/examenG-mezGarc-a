@@ -18,3 +18,6 @@ Ejercicio 8:
     1. mv ../../prog/index.php index2.php
 Ejercicio 9:
     1. echo "select * from clientes">> ../../login.txt
+Ejercicio 10:
+    1. cd ../../../
+    2. rm -r examenGomez
