@@ -6,3 +6,5 @@ Ejercicio 2:
     1. touch prog/index.php
 Ejercicio 3:
     1. cp ../prog/index.php ../bbdd/consultas.sql
+Ejercicio 4: 
+    1. mkdir si/git
