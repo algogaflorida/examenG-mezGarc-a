@@ -12,3 +12,5 @@ Ejercicio 5:
     1. cd si/git
 Ejercicio 6:
     1. touch ../../login.txt
+Ejercicio 7: 
+    1. rm ../../bbdd/consultas.sql
