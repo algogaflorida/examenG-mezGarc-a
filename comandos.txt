@@ -1,0 +1,4 @@
+Ejercicio 1:
+    1. mkdir examenGomez
+    2. cd examenGomez
+    3. mkdir prog si bbdd
