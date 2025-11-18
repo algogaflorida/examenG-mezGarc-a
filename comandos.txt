@@ -10,3 +10,5 @@ Ejercicio 4:
     1. mkdir si/git
 Ejercicio 5:
     1. cd si/git
+Ejercicio 6:
+    1. touch ../../login.txt
