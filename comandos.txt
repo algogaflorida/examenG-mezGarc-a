@@ -14,3 +14,5 @@ Ejercicio 6:
     1. touch ../../login.txt
 Ejercicio 7: 
     1. rm ../../bbdd/consultas.sql
+Ejercicio 8:
+    1. mv ../../prog/index.php index2.php
